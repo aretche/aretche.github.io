@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/aretche
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://gabriel-arellano.com
+  * I am aretche (https://keybase.io/aretche) on keybase.
+  * I have a public key with fingerprint 63E7 9F5C DD3F 9A12 CACF  3A42 A294 BD54 3D68 579A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101fd537a34d25e285d4cd1dd7b7384ed92bdb1ee9061bd359f8eab25305c650b590a",
+            "fingerprint": "63e79f5cdd3f9a12cacf3a42a294bd543d68579a",
+            "host": "keybase.io",
+            "key_id": "a294bd543d68579a",
+            "kid": "0101fd537a34d25e285d4cd1dd7b7384ed92bdb1ee9061bd359f8eab25305c650b590a",
+            "uid": "dfed682200411ae59e405ddf3711df19",
+            "username": "aretche"
+        },
+        "service": {
+            "hostname": "gabriel-arellano.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1473899733,
+    "expire_in": 157680000,
+    "prev": "19a5a13043f7d499e3c0787924cd0550c5dbec4c2ea79676d061cecf35e9b19e",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMIrAnicrZJbSBVBGMePqZVCF7oRWedhX3rQc9rZ2Tl7xgqLMBJ9CHuwyDjOzszq
+5nH3uGfPUbOoJEglNSOoHpKQyrcipBsI2R1OmGUZRffM0DDo9hBdqFmxtx6bl2E+
+/t/v+3/ffDdmpfuy0x79nH1tYvfclWl3rnYlfGVPJoYbJd1mDVJ+o1TNJy8eZTzu
+RqpNJuVLMpCBwRDUCFSZgrgSRkylDDCm6RoMq5xhRWc64BzLIaAziLAR5kRXEJQR
+DSFZR1gmUp5kmFYld2KOabkCG4JcwwaijEEDE6BQQg1IVIUoWNUZUiELhZGGvcQq
+O+5lCHM6ifOgaYuYeEQm7f1D/599JyZxzOCigqLIsgoA4QhzVUaMGVADgBkAe8I4
+dyxSwz1XDndpFZd25UkimDQp9+bqNTIlqCS6Y/JoQAijUWLZQWrXCETMsV2b2lGh
+qHLdWL4HcBtiXkYd1yNTrIhuWkxMUyQkuRM3bUvKB0JJXdODA1X0h7EGYZ7E62Om
+wyOmp0BaKCyL45XhSYEEmCACoKxCQ2MqxhxSWQtrWBFzkhGSKWI6pypVONFwSAsx
+MSjKxT8hjnWAueR1V2vZgq0In6RSMONmpUXchCN6v9ZfnuFLy/ZNz5zmrZkvO2vu
+3+VrHZ/xO9EyPzovmff2HL0gfU98/ppKpW8ILu86cnHZxmWFh12UOzCRcTp1yl+z
+IlVdFKpoPFO20P50v6fnztLBN8tfTINzusvf76zPGWmtT+8rH7JGO3Iy8eCx5OXc
+RZ83vTsUAHBoScHRjkU1j82R9TsqyC2JtqMDB88+bCvIisQ7mpMPhj8N/Hr9raxt
+zVhT7/XusvYvnYO1956XaNtX+7ftKd988+mjdWMlL2fdPjG68EoRCrwovNT7qrN0
+aerZ+XF/iW4l9+3ferm5byxDvVD0A/ZveRwcjw2OlAwHmgIrQcvbl2eKj69am7Ng
+zD9asHfz4rvBvncbizNnlponPyg9ysc6/x9AakjE
+=e8VA
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aretche
+
+==================================================================
